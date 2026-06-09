@@ -32,7 +32,7 @@ The Zero Trust Lab Guide aims to provide a level 200 learning path that will hel
 
 ## Lab Guide Map
 
-A visual represenation of the lab and deployment order is located at https://aka.ms/ztlabguidemap
+A visual represenation of the lab and deployment order is located at [https://aka.ms/ztlabguidemap](https://github.com/microsoft/cloudlab/blob/main/src/website/static/ZTLabGuideMap.pdf)
 
 ## Lab Guide 
 
